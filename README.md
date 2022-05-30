@@ -5,7 +5,7 @@
 Clone the repository:
 
 ```
-git clone https://github.com/tushargoyal22/Collaborative-Coding-IDE
+git clone https://github.com/mrkhan02/CS307_Project.git
 ```
 
 and install the dependencies
